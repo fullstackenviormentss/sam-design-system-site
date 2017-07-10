@@ -7,6 +7,7 @@ title: Basic Page
 ---
 
 # Basic Page
+The elements described on this page should appear on all pages of the SAM.gov website.
 
 ## Page Header
 
