@@ -6,19 +6,6 @@ type: style
 title: Colors
 ---
 
-.color-box {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 10;
-}
-
-.color-tile {
-    width: 200px;
-    height: 150px;
-    display: inline-block;
-}
-
 # Colors
 
 The following colors are a subset of the [U.S. Web Design Standards](https://standards.usa.gov/components/colors/) color palette.
