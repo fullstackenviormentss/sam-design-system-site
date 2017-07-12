@@ -23,47 +23,14 @@ title: Colors
 
 The following colors are a subset of the [U.S. Web Design Standards](https://standards.usa.gov/components/colors/) color palette.
 
-
 ## Primary Colors
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| | U.S Web Standard CSS class | Hex Value |
-| -------------------------------------------------------------------- |:-------------:| ------- |
-| ![alt text](../images/royal-color-primary.png "royal-color-primary") | color-primary | #0071bc |
-
-<div class="color-tile">
-    <div class="color-box" style="background-color: #323a45;"></div>
-    <div>
-        <b>#323A45</b><br>
-        $color-gray-dark
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #0071bc;"></div>
-    <div>
-        <b>#0071BC</b><br>
-        $color-primary
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #02bfe7;"></div>
-    <div>
-        <b>#02BFE7</b><br>
-        $color-primary-alt
-    </div>
-</div>   
-<div class="color-tile">
-    <div class="color-box" style="background-color: #e31c3d;"></div>
-    <div>
-        <b>#E31C3D</b><br>
-        $color-secondary
-    </div>
-</div>
+| | U.S Web Standard CSS class | Hex Value | Description |
+| -------------------------------------------------------------------- |:-------------:| ------- |:-------------|
+| ![alt text](../images/gray-color-gray-dark.png "color-gray-dark") | color-gray-dark | #323a45 | Used for the header background |
+| ![alt text](../images/royal-color-primary.png "color-primary") | color-primary | #0071bc | Used for primary action buttons |
+| ![alt text](../images/aqua-color-primary-alt.png "color-primary-alt") | color-primary-alt | #02bfe7 | Used for search buttons |
+| ![alt text](../images/red-color-secondary.png "color-secondary") | color-secondary | #e31c3d | Used sparingly as a highlight |
 
 ## Secondary Colors
 
