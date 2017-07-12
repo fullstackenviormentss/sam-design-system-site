@@ -7,7 +7,6 @@ title: Colors
 ---
 
 <style type="text/css">
-
 .color-box {
     width: 100px;
     height: 100px;
@@ -108,6 +107,7 @@ The following colors are a subset of the [U.S. Web Design Standards](https://sta
 
 ## Alert Colors
 
+```html
 <div class="color-tile">
     <div class="color-box" style="background-color: #e7f4e4;"></div>
     <div>
@@ -140,6 +140,7 @@ The following colors are a subset of the [U.S. Web Design Standards](https://sta
         Used to indicate a warning condition
     </div>
 </div>
+```
 
 ## Text Color
 
