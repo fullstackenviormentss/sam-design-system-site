@@ -26,6 +26,16 @@ The following colors are a subset of the [U.S. Web Design Standards](https://sta
 
 ## Primary Colors
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+| | U.S Web Standard CSS class | Hex Value |
+| -------------------------------------------------------------------- |:-------------:| ------- |
+| ![alt text](../images/royal-color-primary.png "royal-color-primary") | color-primary | #0071bc |
+
 <div class="color-tile">
     <div class="color-box" style="background-color: #323a45;"></div>
     <div>
