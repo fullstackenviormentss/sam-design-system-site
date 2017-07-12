@@ -32,113 +32,28 @@ The following colors are a subset of the [U.S. Web Design Standards](https://sta
 | ![alt text](../images/aqua-color-primary-alt.png "color-primary-alt") | color-primary-alt | #02bfe7 | Used for search buttons |
 | ![alt text](../images/red-color-secondary.png "color-secondary") | color-secondary | #e31c3d | Used sparingly as a highlight |
 
-## Secondary Colors
-
-<div class="color-tile">
-    <div class="color-box" style="background-color: #112e51;"></div>
-    <div>
-        <b>#112E51</b><br>
-        $color-primary-darkest
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #4773aa;"></div>
-    <div>
-        <b>#4773AA</b><br>
-        $color-cool-blue-light
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #e1f3f8;"></div>
-    <div>
-        <b>#E1F3F8</b><br>
-        $color-primary-alt-lightest
-    </div>
-</div>
-
 ## Background Colors
 
-<div class="color-tile">
-    <div class="color-box" style="background-color: #FFFFFF; border: 1px solid #999999;"></div>
-    <div>
-        <b>#FFFFFF</b><br>
-        $color-white
-    </div>
-</div>   
-<div class="color-tile">
-    <div class="color-box" style="background-color: #dce4ef;"></div>
-    <div>
-        <b>#DCE4EF</b><br>
-        $color-gray-cool-light
-    </div>
-</div>   
-<div class="color-tile">
-    <div class="color-box" style="background-color: #f1f1f1;"></div>
-    <div>#F1F1F1</b><br>
-        $color-gray-lightest
-    </div>
-</div>
+| | U.S Web Standard CSS class | Hex Value | Description |
+| -------------------------------------------------------------------- |:-------------:| ------- |:-------------|
+| ![alt text](../images/white.png "color-white") | color-white | #ffffff | Primary background color |
+| ![alt text](../images/gray-color-gray-cool-light.png "color-gray-cool-light") | color-gray-cool-light | #dce4ef | Used to distinguish required policy text from other information |
+| ![alt text](../images/gray-color-gray-lightest.png "color-gray-lightest") | color-gray-lightest| #f1f1f1 | Used as a background for complex forms with mutiple fields |
 
 ## Alert Colors
 
-<div class="color-tile">
-    <div class="color-box" style="background-color: #e7f4e4;"></div>
-    <div>
-        <b>#E7F4E4</b><br>
-        $color-green-lightest<br>
-        Used to indicate success
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #e1f3f8;"></div>
-    <div>
-        <b>#E1F3F8</b><br>
-        $color-primary-alt-lightest<br>
-        Used to indicate information
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #f9dede;"></div>
-    <div>
-        <b>#F9DEDE</b><br>
-        $color-secondary-lightest<br>
-        Used to indicate an error condition
-    </div>
-</div>   
-<div class="color-tile">
-    <div class="color-box" style="background-color: #fff1d2;"></div>
-    <div>
-        <b>#FFF1D2</b><br>
-        $color-gold-lightest<br>
-        Used to indicate a warning condition
-    </div>
-</div>
+| | U.S Web Standard CSS class | Hex Value | Description |
+| -------------------------------------------------------------------- |:-------------:| ------- |:-------------|
+| ![alt text](../images/green-color-green-lightest.png "color-green-lightest") | color-green-lightest | #e7f4e4 | Used for success alerts |
+| ![alt text](../images/blue-color-primary-alt-lightest.png "color-primary-alt-lightest") | color-primary-alt-lightest | #e1f3f8 | Used for informational alerts |
+| ![alt text](../images/red-color-secondary-lightest.png "color-secondary-lightest") | color-secondary-lightest | #f9dede | Used for error alerts |
+| ![alt text](../images/gold-color-gold-lightest.png "color-gold-lightest") | color-gold-lightest | #fff1d2 | Used for warning alerts |
+
 
 ## Text Color
 
-<div class="color-tile">
-    <div class="color-box" style="background-color: #000000;"></div>
-    <div>
-        <b>#000000</b><br>
-        $color-base<br>
-        Headings, body text
-    </div>
-</div>
-<div class="color-tile">
-    <div class="color-box" style="background-color: #323A44;"></div>
-    <div>
-        <b>#323A44</b><br>
-        $color-<br>
-        Data entry field labels
-    </div>
-</div>
+
 
 ## Link Color
 
-<div class="color-tile">
-    <div class="color-box" style="background-color: #0071BB;"></div>
-    <div>
-        <b>#0071BB</b><br>
-        $color-primary-darker
-    </div>
-</div>
+
