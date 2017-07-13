@@ -75,15 +75,15 @@ Custom icons were designed to brand the key features of the modernized SAM.gov s
 
 | Icon       | Class           | Site Section    |
 | ------------- | -------------  | -----|
-| ![Admin icon](../Images/admin-darkgray.png) | TBD | Administration |
-| ![APIs icon](../Images/api-darkgray.png) | TBD | APIs |
-| ![Award Data icon](../Images/award-data-darkgray2.png) | TBD | Award Data |
-| ![Data Entry icon](../Images/data-entry-darkgray.png) | TBD | Data Entry |
-| ![External Resources icon](../Images/resources-gray2.png) | TBD | External Resources |
-| ![New to SAM icon](../Images/new-darkgray-4a4a4a.png) | TBD | New to SAM |
-| ![Online Help icon](../Images/help-darkgray.png) | TBD | Online Help |
-| ![Quick Start Guides icon](../Images/guide-darkgray.png) | TBD | Quick Start Guides |
-| ![Reports icon](../Images/reporting-darkgray.png) | TBD | Reports |
-| ![Search icon](../Images/search-darkgray1.png) | TBD | Search |
-| ![User Accounts icon](../Images/user-gray.png) | TBD | User Accounts |
-| ![What's Coming icon](../Images/map-darkgray-4a4a4a copy.png) | TBD | What's Coming |
+| ![Admin icon](../images/admin-darkgray.png) | TBD | Administration |
+| ![APIs icon](../images/api-darkgray.png) | TBD | APIs |
+| ![Award Data icon](../images/award-data-darkgray2.png) | TBD | Award Data |
+| ![Data Entry icon](../images/data-entry-darkgray.png) | TBD | Data Entry |
+| ![External Resources icon](../images/resources-gray2.png) | TBD | External Resources |
+| ![New to SAM icon](../images/new-darkgray-4a4a4a.png) | TBD | New to SAM |
+| ![Online Help icon](../images/help-darkgray.png) | TBD | Online Help |
+| ![Quick Start Guides icon](../images/guide-darkgray.png) | TBD | Quick Start Guides |
+| ![Reports icon](../images/reporting-darkgray.png) | TBD | Reports |
+| ![Search icon](../images/search-darkgray1.png) | TBD | Search |
+| ![User Accounts icon](../images/user-gray.png) | TBD | User Accounts |
+| ![What's Coming icon](../images/map-darkgray-4a4a4a copy.png) | TBD | What's Coming |
