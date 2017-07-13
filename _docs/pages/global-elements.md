@@ -43,7 +43,14 @@ The Main Menu makes available high-level site sections. The following are curren
 The Menu icon is a toggle with the Search icon.
 
 ### Notifications Feed
-The Notification icon has a badge count when unread notifications are sent to the user. Selecting the notification icon opens a panel with a summary listing of notifications. Individual notifications take the user directly to the relevant page, or the user can select to view a comprehensive notifications page.
+Notifications is a global feature from the header that aggregates personalized messages that are likely to be important to a specific user. Personalized means the messages sent to a user are based on a user’s roles and preferences. Selecting the notification icon opens a panel with a summary listing of notifications. 
+
+- When a new notification arrives, it is indicated by an updated count in a badge next to the notifications icon.
+- Notifications are ordered according to the time they are received, with most recent at the top.
+- 10 (?) of the most recent notifications appear in the view of the notifications list. A link below the notifications takes the user to a page with the full feed of all notifications.
+- An individual notification should link to the relevant page on the website.
+- A level 2 notifications page will have all notifications listed (across domains) and can be sorted/filtered
+- A level 2 domain page may have a banner that lists a count, such as ‘You have 4 new notifications’
 
 ### Sign Up
 Navigates users to a page where they can establish an account with SAM.gov.
