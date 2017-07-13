@@ -28,7 +28,7 @@ Photographs should include the following attributes:
 
 ## Icons
 
-FontAwesome is the icon set used for the majority of [functional and illustrative icons](../style/Icons.md), unless otherwise indicated.
+FontAwesome is the icon set used for the majority of functional and illustrative icons, unless otherwise indicated.
 
 The following icons are used throughout the site as visual cues for functional buttons or links, as status indicators, or to categorize data.
 
@@ -86,4 +86,4 @@ Custom icons were designed to brand the key features of the modernized SAM.gov s
 | ![Reports icon](../images/reporting-darkgray.png) | TBD | Reports |
 | ![Search icon](../images/search-darkgray1.png) | TBD | Search |
 | ![User Accounts icon](../images/user-gray.png) | TBD | User Accounts |
-| ![What's Coming icon](../images/map-darkgray-4a4a4a copy.png) | TBD | What's Coming |
+| ![What's Coming icon](../images/map-darkgray-4a4a4a.png) | TBD | What's Coming |
