@@ -28,6 +28,7 @@ The following colors are a subset of the [U.S. Web Design Standards](https://sta
 | ![alt text](../images/gray-color-gray-lightest.png "color-gray-lightest") | color-gray-lightest| #f1f1f1 | Used as a background for complex forms with mutiple fields |
 
 ## Alert Colors
+Note: The following subtle colors are primarily used for alerts, but may be used in limited cases. When using colors for other page elements, keep in mind the primary use to avoid conflict in meaning (for example, the light red is used for errors, so should be used to convey similar meaning).
 
 | | U.S Web Standard CSS class | Hex Value | Description |
 | -------------------------------------------------------------------- |:-------------:| ------- |:-------------|
