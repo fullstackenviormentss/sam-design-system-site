@@ -45,8 +45,8 @@
 
 | Help Landing Page | When to Use  |
 |:-------------:|:-------------:|
-|![Workspace Landing Page](../images/workspace-t1.png)| TBD   |
+|![Help Landing Page](../images/help-landing-page.png)| TBD   |
 
 | Reporting Landing Page  | When to Use |
 |:-------------:|:-------------:|
-|![Workspace Landing Page](../images/workspace-t1.png)| TBD   |
+|   | TBD   |
